@@ -15,6 +15,7 @@ public:
 };
 
 void main()
-{
+{	
+	//Person person = new Person();		// C# or Java
 	Person person;
 }
