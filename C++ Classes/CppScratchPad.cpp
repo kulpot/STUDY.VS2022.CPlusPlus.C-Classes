@@ -11,5 +11,10 @@ class Person
 public:
 	string firstName;
 	string lastName;
-private:
+//private:
 };
+
+void main()
+{
+	Person person;
+}
