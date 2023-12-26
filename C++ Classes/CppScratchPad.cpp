@@ -1,3 +1,4 @@
+#include <iostream>
 #include <string>
 using std::string;
 
@@ -17,5 +18,8 @@ public:
 void main()
 {	
 	//Person person = new Person();		// C# or Java
-	Person person;
+	Person person;		// in stack instead on the heap
+	person.firstName = "Kulpot";
+	person.lastName = "King";
+	cout
 }
