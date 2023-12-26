@@ -5,5 +5,7 @@
 
 class Person
 {
+public:
 
+private:
 };
